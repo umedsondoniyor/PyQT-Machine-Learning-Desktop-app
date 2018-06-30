@@ -1,6 +1,8 @@
 # PyQT-Machine-Learning-Desktop-app
 MAKİNE ÖĞRENMESİNİN TEMNELLERİ - FİNAL SINAVI İÇİN GELİŞTİRİLEN UYGULAMASI
 
+*Design Pattern Baya Çirkin duruyor biliyorum :sweat: Sonra düzeltilecektir...:blush:*
+
 1. RUS-ROS Dengelemesi
 RUS - random undersampling ve ROS - random oversampling
 RUS veriyi dengelemek için verisetini küçültmüştür yada azaltmıştır. ROS ise veriyi dengelemek için verisetini büyültmüştür veya çoğaltmıştır.
