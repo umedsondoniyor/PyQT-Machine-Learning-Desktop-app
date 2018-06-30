@@ -1,0 +1,3 @@
+# PyQT-Machine-Learning-Desktop-app
+MAKİNE ÖĞRENMESİNİN TEMNELLERİ - FİNAL SINAVI İÇİN GELİŞTİRİLEN UYGULAMASI
+
